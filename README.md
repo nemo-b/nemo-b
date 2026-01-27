@@ -20,9 +20,9 @@ This GitHub documents my hands-on cybersecurity learning, including:
 
 ## Featured Projects
 
-- **SOC Log Analysis Lab**  (In Progress)
-  Splunk-based investigation of authentication and network events, focusing on detection logic and analyst workflow.  
-  → [View repository](link)
+- **SOC Home Lab – Log Analysis** (In Progress)
+Hands-on Splunk investigations of authentication and network telemetry, focused on detection engineering, alert validation, and analyst response workflows.
+  → **[SOC-Home-Lab](https://github.com/nemo-b/SOC-Home-Lab/tree/main)**
 
 - **Incident Response Simulation**  (Coming soon)
   Step-by-step response to a simulated security incident, including triage, containment, and lessons learned.  

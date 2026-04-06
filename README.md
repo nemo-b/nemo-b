@@ -28,6 +28,10 @@ Hands-on Splunk investigations of authentication and network telemetry, focused 
 Containerized DNS Sinkhole & SIEM Pipeline A deep-dive into network-wide telemetry, bridging the gap between containerized Linux services and enterprise-grade SIEM analytics. Features a custom Splunk integration for real-time DNS threat monitoring.
   → **[Pihole-Lab](https://github.com/nemo-b/Pihole-Lab)**
 
+- **IP-Reputation-Automator - IP Risk Assesment**
+An automated cybersecurity triage pipeline that integrates a custom Python enrichment engine with Splunk SIEM to transform raw IP indicators into real-time, actionable threat intelligence dashboards.
+  → **[IP-Reputation-Automator](https://github.com/nemo-b/IP-Reputation-Automator)**
+
 ---
 
 📝 *This is a living collection that evolves as I deepen my skills and understanding.*

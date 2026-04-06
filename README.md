@@ -24,9 +24,9 @@ This GitHub documents my hands-on cybersecurity learning, including:
 Hands-on Splunk investigations of authentication and network telemetry, focused on detection engineering, alert validation, and analyst response workflows.
   → **[SOC-Home-Lab](https://github.com/nemo-b/SOC-Home-Lab/tree/main)**
 
-- **Project Aegis**
+- **Project Pihole**
 Containerized DNS Sinkhole & SIEM Pipeline A deep-dive into network-wide telemetry, bridging the gap between containerized Linux services and enterprise-grade SIEM analytics. Features a custom Splunk integration for real-time DNS threat monitoring.
-  → **[Aegis-Lab](https://github.com/nemo-b/Aegis-Lab)**
+  → **[Pihole-Lab](https://github.com/nemo-b/Pihole-Lab)**
 
 ---
 

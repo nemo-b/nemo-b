@@ -1,5 +1,5 @@
 # Hi, I'm Nehemiah 👋
-CompTIA Security+ certified | Aspiring SOC analyst focused on incident response, SIEM, and log analysis  
+CompTIA Security+ certified | Microsoft Azure Certified | Aspiring SOC analyst focused on incident response, SIEM, and log analysis  
 
 This GitHub documents my hands-on cybersecurity learning, including:
 🔹 SIEM labs and log analysis practice

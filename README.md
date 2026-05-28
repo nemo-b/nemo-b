@@ -14,6 +14,7 @@ This GitHub documents my hands-on cybersecurity learning, including:
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
